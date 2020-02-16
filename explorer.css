@@ -1,0 +1,17 @@
+body{
+    padding-top:10%;
+    background-image:url("https://tdcte.files.wordpress.com/2019/03/seamless-polygon-backgrounds-vol-website.jpg");
+}
+.searchContainer{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Cinzel Decorative', cursive;
+}
+#profile
+{
+    font-size: larger;
+    font-family: 'Cinzel Decorative', cursive;
+}
+#searchUser{
+    background-color: lightcyan;
+}
