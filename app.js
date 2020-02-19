@@ -1,4 +1,4 @@
-const github = new GitHub();
+const GitHub = new GitHub();
 
 
 const searchUser = document.getElementById('searchUser');
