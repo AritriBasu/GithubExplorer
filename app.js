@@ -1,4 +1,4 @@
-const GitHub = new GitHub();
+const Github = new Github();
 
 
 const searchUser = document.getElementById('searchUser');
@@ -36,3 +36,4 @@ searchUser.addEventListener('keyup', (e) => {
 		document.getElementById('profile').innerHTML = '';
 	}
 });
+j
